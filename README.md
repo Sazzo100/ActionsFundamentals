@@ -3,6 +3,7 @@
 Repo for the `GitHub Actions Fundamentals` training.
 
 EDIT: TESTING WORKFLOW TRIGGER
+EDIT: TESTING TRIGGER WITH [SKIP CI]
 
 ## 👉 Objectives
 
